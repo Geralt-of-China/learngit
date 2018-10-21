@@ -13,3 +13,4 @@ add something to test branch to remote
 add in master
 ----------------
 conflict fixed
+add before pull
