@@ -5,4 +5,6 @@ jsflkasjflj
 add some change
 -------------
 add after creating branch
+<<<<<<< HEAD
 add something in master
+=======
