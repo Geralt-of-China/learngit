@@ -8,3 +8,4 @@ add after creating branch
 <<<<<<< HEAD
 add something in master
 =======
+add before merge remote
