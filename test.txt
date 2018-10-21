@@ -9,3 +9,4 @@ add after creating branch
 add before merge remote
 -----------------------
 add something to test branch to remote
+add before pull
