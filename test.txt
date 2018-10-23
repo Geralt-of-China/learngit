@@ -1,17 +1,1 @@
-i am testing 
-change my file
-add some change
-jsflkasjflj
-add some change
--------------
-add after creating branch
-----------------------
-add before merge remote
------------------------
-add something to test branch to remoteaaa
--------------------
-add in master
-----------------
-conflict fixed
-add before pullaaa
 add in master
